@@ -4,10 +4,10 @@
 There are many fraudalent claims being made to health insurance companies, resulting in huge losses. 
 
 The types of health insurance fraud are as follows:
-1.Claim fraud: This means that the insured is claiming for a health care benefit that he is not entitled to receive as per the policy terms and conditions.
-2.Application fraud: In such cases, the insured aware of all the facts, enters wrong information relating to his pre-existing diseases, date of birth, claims, etc.
-3.External and internal frauds: External fraud simply means that the false claim is made either by the policyholder, beneficiaries, medical service provider against the insurance company. Internal fraud is carried out by the employees of the company against the policyholder.
-4.Deliberate and opportunity fraud: Deliberate fraud is nothing but purposefully presenting the company with an accident, disease or loss which is covered under the policy.
+- 1.Claim fraud: This means that the insured is claiming for a health care benefit that he is not entitled to receive as per the policy terms and conditions.
+- 2.Application fraud: In such cases, the insured aware of all the facts, enters wrong information relating to his pre-existing diseases, date of birth, claims, etc.
+- 3.External and internal frauds: External fraud simply means that the false claim is made either by the policyholder, beneficiaries, medical service provider against the insurance company. Internal fraud is carried out by the employees of the company against the policyholder.
+- 4.Deliberate and opportunity fraud: Deliberate fraud is nothing but purposefully presenting the company with an accident, disease or loss which is covered under the policy.
 
 On the basis of pre existing dataset, a machine learning alorithm can be developed to closely predict whether the claim made is genuine or not. The dataset contains various features like hospital location, type of illness, surgical description, cost for hospital,total charges etc.
 
@@ -39,6 +39,6 @@ This is a supervied machine learning project done over a large dataset.
 ### 7)Generating pickle file
 - Pickle file was dumped so that it could be used in deployment
 ### 8)Model Deployment:
--Streamlit was used to deploy the model which hosts the user interface on a webpage.
+- Streamlit was used to deploy the model which hosts the user interface on a webpage.
 
 
