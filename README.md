@@ -1,6 +1,6 @@
 # Health-Insurance-Claim-Detector
 
-##Backgroud:
+## Backgroud:
 There are many fraudalent claims being made to health insurance companies, resulting in huge losses. 
 
 The types of health insurance fraud are as follows:
